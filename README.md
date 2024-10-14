@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **PHP, Javacript, & Flutter**
 
-- 👨‍💻 All of my projects are available at [codetak.my.id](codetak.my.id)
+- 👨‍💻 All of my projects are available at [firaasraihansyah.myh.id](firaasraihansyah.my.id)
 
-- 📝 I regularly write articles on [codetak.my.id](codetak.my.id)
+- 📝 I regularly write articles on [firaasraihansyah.my.id](firaasraihansyah.my.id)
 
 - 📫 How to reach me **hulukotak@gmail.com**
 
